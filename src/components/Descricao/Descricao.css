@@ -1,0 +1,22 @@
+.main{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.titulo{
+    text-align: center;
+    color:navy;
+    
+}
+
+.img1 {
+    width: 500px;
+    height: 700px;
+}
+
+.main p{
+    margin-top: 20px ;
+    width: 500px;
+    text-align: left;
+}
